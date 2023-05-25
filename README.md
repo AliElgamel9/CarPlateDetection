@@ -2,6 +2,7 @@
 This repository contains an image processing solution for detecting and classifying car license plates. The goal of this project is to develop a robust system that can accurately identify and analyze the alphanumeric characters present on a car license plate, using various image processing techniques.
 
 The proposed methodology:
+
 1- Prepare and load the image
 
 2- Preprocessing: The preprocessed image is converted to grayscale and further processed to remove noise using median blur. Morphological operations are applied to obtain the boundary of the license plate region.
